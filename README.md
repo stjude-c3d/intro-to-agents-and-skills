@@ -13,7 +13,12 @@ In about 30 minutes we will review basics of LLM safety, how LLMs "work," an LLM
 
 ## Agenda
 
-1. Linking to resources on the Wiki
+1. Quick Review of Tools
+2. Agents and Harnesses
+3. Installation
+4. Sandboxing
+5. Skills, examples
+
 
 ## Getting Started
 Steps to get started at St. Jude. This is a list of software and setup steps you'll probably want to do first. [link](getting-started/readme.md).
