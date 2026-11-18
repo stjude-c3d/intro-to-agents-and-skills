@@ -28,13 +28,13 @@ Today, we'll install one skill that's a part of K-Dense's [Scientific Agent Skil
 
 1. First, let's do a prompt without a Skill. Without a Skill, ask your LLM: “Generate a structure for carazolol”
 
-2. Navigate to the K-Dense [rdkit](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/rdkit) skill.
+2. Navigate to the K-Dense [rdkit](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/rdkit) skill and check out what it does. This is a more complicated Skills repository, so we won't download from here; I've saved you a copy for simplicity.
 3. I've saved this skill to our repo just to make it easy for you to download without synching the repository. Download rdkit.zip.
 4. Navigate to the download folder.
-4.You can either drag this into the skills dialog in Claude, or unzip and put the folder database-lookup into ~/.claude/skills, etc.
+4.You can either drag this into the skills dialog inside Settings in Claude, or unzip and put the folder database-lookup into ~/.claude/skills, ~/.copilot/skills etc.
 
 ### More?
-Download matplotlib.zip from the skills folder, and manhattan_dummy.csv, with a simulated GWAS dataset of about 20,000 SNPs across chromosomes 1–22.
+Download matplotlib.zip from the skills folder, and manhattan_dummy.csv, with a simulated GWAS dataset of about 20,000 SNPs across chromosomes 1–22. Prompt:  "manhattan_dummy_data.csv contains a GWAS dataset of 500K SNPs across chromosomes 1–22. How should I plot this?"
 
 
 Example popular skills are here: [link](skills/README.md).
