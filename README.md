@@ -1,7 +1,7 @@
 # Intro to Agents and Skills
 *KIDS26 workshop · St. Jude Children's Research Hospital*
 
-Hands-on workshop material for Knowledge in Data Science Symposium (KIDS26) Workshop on An Introduction to AI Agents and Skills, presented November 18, 2026 at the KIDS26 conference.
+Hands-on workshop material for Knowledge in Data Science Symposium (KIDS26) Workshop on An Introduction to AI Agents and Skills, presented November 18, 2026 at the KIDS26 conference. Please see a PDF of the presentation above.
 
 In about 30 minutes we will review basics of LLM safety, how LLMs "work," an LLM Harness talks to an LLM Endpoint via its API.
 
