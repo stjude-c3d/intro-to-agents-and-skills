@@ -14,4 +14,9 @@ In about 30 minutes we will review basics of LLM safety, how LLMs "work," an LLM
 ## Agenda
 
 1. Linking to resources on the Wiki
-2. 
+
+## Getting Started
+Steps to get started at St. Jude. This is a list of software and setup steps you'll probably want to do first. [link](getting-started/readme.md).
+
+## Enterprise Tools
+Enterprise Tools available at St. Jude. [link](enterprise-tools/readme.md).
