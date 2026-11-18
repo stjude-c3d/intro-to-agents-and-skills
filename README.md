@@ -21,7 +21,7 @@ In about 30 minutes we will review basics of LLM safety, how LLMs "work," an LLM
 
 
 ## Getting Started
-Steps to get started at St. Jude. This is a list of software and setup steps you'll probably want to do first. [link](getting-started/readme.md).
+Steps to get started at St. Jude. This is a list of software and setup steps you'll probably want to do first. [link](getting-started/README.md).
 
 ## Skills
 Today, we'll install one skill that's a part of K-Dense's [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills).
